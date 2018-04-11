@@ -43,6 +43,8 @@ them out as tab separated URLs:
 
 ## Use as a Library
 
+[![](https://mybinder.org/static/images/badge.svg)](https://mybinder.org/v2/gh/edsu/wikilinks/master?filepath=example-notebook.ipynb)
+
 This example will fetch each Wikipedia article link to the `mith.umd.edu`
 website as a `(source, target)` tuple:
 
